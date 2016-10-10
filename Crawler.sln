@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlerLibrary", "..\Projects\Crawler\CrawlerLibrary\CrawlerLibrary.csproj", "{2EDAF73F-3B78-4954-BEC8-16F922BEC198}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlerLibrary", "CrawlerLibrary\CrawlerLibrary.csproj", "{2EDAF73F-3B78-4954-BEC8-16F922BEC198}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "..\Projects\Crawler\ConsoleApplication\ConsoleApplication.csproj", "{8AF421FD-449C-46DA-ACC0-AB16E33CA4F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{8AF421FD-449C-46DA-ACC0-AB16E33CA4F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
